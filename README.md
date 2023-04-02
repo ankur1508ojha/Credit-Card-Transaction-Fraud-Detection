@@ -1,7 +1,7 @@
 # Credit-Card-Transaction-Fraud-Detection
 
 **Data Description **
-The dataset consists of 96,753 records and 10 distinct fields, documenting real card payments made between January 1, 2010, and December 31, 2010. Each record in this dataset captures essential transaction details such as card numbers, transaction dates, merchant numbers, descriptions, states, zip codes, payment amounts in US dollars, and fraud scores
+The dataset consists of 96,753 records and 10 distinct fields, documenting real card payments made between January 1, 2010, and December 31, 2010. Each record in this dataset captures essential transaction details such as card numbers, transaction dates, merchant numbers, descriptions, states, zip codes, payment amounts in US dollars, and fraud scores. (The Dataset is highly imbalanced)
 
 
 This project aims to develop a supervised machine-learning model that can detect and predict credit card transaction fraud. Credit card transaction fraud is a type of fraud where someone illegally uses another person's credit card information to make unauthorized purchases or cash advances. This can result in significant financial losses for both the cardholder and the card issuer and damage to the victim's credit score. The prevalence of credit card transaction fraud has increased with the growing use of online shopping and the widespread use of credit cards for payment transactions.
